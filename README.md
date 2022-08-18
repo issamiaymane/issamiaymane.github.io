@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Webpage
 
-You can use the [editor on GitHub](https://github.com/issamiaymane/issamiaymane.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'm [Aymane ISSAMI](https://issamiaymane.com), currently an Engineering student at ENSAM.An ambitious student, first year on the higher school preparatory classes at the National School of Arts and Crafts. I hope to one day fix the biggest problems in the world, and will use my time in college to explore every facet of engineering to find what interests me the most.
 
 ### my GitHub Projects
 
