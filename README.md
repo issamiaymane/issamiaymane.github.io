@@ -10,5 +10,5 @@ Here you can find all my Github Projects :
 - [Project 2](https://github.com/issamiaymane)
 
 ```markdown
-GitHub Projects
+[...]
 ```
