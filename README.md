@@ -9,7 +9,7 @@ Here you can find all my projects github
 ```markdown
 GitHub Projects
 
-- [Project 1](https://github.com/issamiaymane/#)
-- [Project 2](https://github.com/issamiaymane/#)
+- [Project 1](https://github.com/issamiaymane)
+- [Project 2](https://github.com/issamiaymane)
 
 ```
