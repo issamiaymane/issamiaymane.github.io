@@ -4,11 +4,11 @@ You can use the [editor on GitHub](https://github.com/issamiaymane/issamiaymane.
 
 ### my GitHub Projects
 
-Here you can find all my projects github
+Here you can find all my Github Projects :
+
+- [Project 1](https://github.com/issamiaymane)
+- [Project 2](https://github.com/issamiaymane)
 
 ```markdown
 GitHub Projects
-
-- [Project 1](https://github.com/issamiaymane/issamiaymane.github.io/edit/main/README.md)
-
 ```
