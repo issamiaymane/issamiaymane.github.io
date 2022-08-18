@@ -6,9 +6,10 @@ I'm [Aymane ISSAMI](https://issamiaymane.com), currently an Engineering student 
 
 Here you can find all my Github Projects :
 
-- [Project 1](https://github.com/issamiaymane)
-- [Project 2](https://github.com/issamiaymane)
-- [Project 3](https://github.com/issamiaymane)
+- [Web Projects]:
+    . [Windows-Terminal](https://github.com/issamiaymane/Windows-Terminal
+- [Software Projects]: 
+- [Android Projects]:
 
 ```markdown
 [...]
