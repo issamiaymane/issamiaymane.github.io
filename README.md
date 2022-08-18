@@ -6,12 +6,11 @@ I'm [Aymane ISSAMI](https://issamiaymane.com), currently an Engineering student 
 
 Here you can find all my Github Projects :
 
-- #### [Web Projects]:
-
-*   [Windows-Terminal](https://github.com/issamiaymane/Windows-Terminal
+#### Web Projects:
+*   [Windows-Terminal](https://github.com/issamiaymane/Windows-Terminal)
     
-- [Software Projects]: 
-- [Android Projects]:
+#### Software Projects: 
+#### Android Projects:
 
 ```markdown
 [...]
