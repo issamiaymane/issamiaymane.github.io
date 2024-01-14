@@ -7,10 +7,6 @@ I'm [Aymane ISSAMI](https://issamiaymane.com), currently an Engineering student 
 Here you can find all my Github Projects :
 
 #### Web Projects:
-*   [windows-login](https://issamiaymane.github.io/windows-login/)
-*   [web-terminal](https://issamiaymane.github.io/web-terminal/)
-
-    
 #### Software Projects: 
 #### Android Projects:
 
